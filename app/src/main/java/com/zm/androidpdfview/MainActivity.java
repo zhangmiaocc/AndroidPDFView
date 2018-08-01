@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity implements OnPageChangeListe
     private static final String TAG = MainActivity.class.getSimpleName();
 
     private PDFView pdfView;
-    public static final String SAMPLE_FILE = "日志框架Logger的详细使用.pdf";
+    public static final String SAMPLE_FILE = "Android加载PDF文件的使用.pdf";
     Integer pageNumber = 0;
 
     String pdfFileName;
