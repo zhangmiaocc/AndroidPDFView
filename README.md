@@ -75,7 +75,8 @@ pdfView.fromAsset（String）
     .pageFitPolicy（FitPolicy 。 WIDTH）
     .pageSnap（true）//将页面捕捉到屏幕边界 
     .pageFling（false）//仅对像ViewPager 
-    这样的单页进行一次更改 .nightMode（false）//切换夜间模式 
+     //这样的单页进行一次更改 
+    .nightMode（false）//切换夜间模式 
     .load（）;
 ```
 ####  <span style="color:red">注意</span>
