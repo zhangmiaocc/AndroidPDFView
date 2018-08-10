@@ -24,7 +24,7 @@
 
 ## 在布局中包含PDFView
 
-```html
+```
 <com.github.barteksc.pdfviewer.PDFView
         android:id="@+id/pdfView"
         android:layout_width="match_parent"
