@@ -1,6 +1,7 @@
 # AndroidPDFView
 #### My Blog：[`zhangmiao.cc`](zhangmiao.cc)
-参考自:https://github.com/barteksc/AndroidPdfViewer
+参考自：https://github.com/barteksc/AndroidPdfViewer
+
 安装
 
 添加到build.gradle：
