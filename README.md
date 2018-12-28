@@ -1,5 +1,5 @@
 # AndroidPDFView
-#### My Blog：[zhangmiao.cc](https://zhangmiao.cc/2018/07/31/Android%E5%8A%A0%E8%BD%BDPDF%E6%96%87%E4%BB%B6%E7%9A%84%E4%BD%BF%E7%94%A8/)
+#### My Blog：[zhangmiao.cc](https://zhangmiao.cc/posts/44884a58.html)
 参考自：https://github.com/barteksc/AndroidPdfViewer
 
 ## 安装
